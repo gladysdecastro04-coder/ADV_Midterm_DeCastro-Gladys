@@ -27,3 +27,4 @@ print(f"Age: {age}")
 print(f"Course: {course}")
 print(f"Total Subjects: {len(subjects)}")
 print(f"Total Payment: ₱{total_payment}")
+# Minor update for feature branch
